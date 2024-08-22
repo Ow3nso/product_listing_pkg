@@ -39,12 +39,12 @@ dependencies:
 
   lukhu_packages_pkg:
     git: 
-      url: git@github.com:Lukhu-Product/lukhu_packages_pkg.git
+      url: https://github.com/Ow3nso/lukhu_packages_pkg.git
       ref: main
 dependency_overrides:
   product_listing_pkg:
     git:
-      url: git@github.com:Lukhu-Product/product_listing_pkg.git
+      url: https://github.com/Ow3nso/product_listing_pkg.git
       ref: main
 
 dev_dependencies:
